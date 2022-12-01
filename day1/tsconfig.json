@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ES2022",
+        "outDir": "./out",
+        "allowJs": true,
+        "sourceMap": true
+    },
+    "exclude": [
+        "node_modules",
+        "out"
+    ]
+}
